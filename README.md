@@ -10,7 +10,6 @@ The objective of this analysis is to uncover the main drivers of churn, evaluate
 
 The analysis was conducted using Excel for data exploration and calculations, and Tableau for visualization and presentation. 
 
-https://public.tableau.com/views/RevenueandChurnAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 An interactive Tableau dashboard can be viewed here: [View Dashboard](https://public.tableau.com/views/RevenueandChurnAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
