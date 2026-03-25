@@ -73,6 +73,7 @@ The dashboard highlights:
 - Focus retention strategies on high-value customer segments while improving lower-tier positioning
 
 **Project Files**
+
 analysis.xlsx → detailed exploratory analysis
 dashboard.png → Tableau dashboard
 
