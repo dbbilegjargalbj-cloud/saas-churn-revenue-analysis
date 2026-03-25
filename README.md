@@ -1,4 +1,4 @@
-SaaS Churn & Revenue Analysis
+**SaaS Churn & Revenue Analysis**
 
 **Overview**
 In this project, I analyzed customer churn, retention drivers, and revenue performance for a SaaS business (CloudTask Pro). Using Excel for exploratory analysis and Tableau for visualization, I investigated churn trends, compared subscription segments, evaluated unit economics (CLV vs CAC), and built a dashboard to support data-driven retention decisions.
