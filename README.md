@@ -57,7 +57,11 @@ Finally, I identified at-risk customers based on behavioral indicators (low feat
 - Approximately 49% of active customers are at risk, highlighting a large opportunity for proactive retention
 
 **Dashboard**
-Tableau Public: https://public.tableau.com/views/RevenueandChurnAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Interactive Tableau dashboard: https://public.tableau.com/views/RevenueandChurnAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+<p align="center">
+  <img src="dashboard.png" width="900">
+</p>
 
 The dashboard highlights:
 - Total customers, churn rate, MRR, and at-risk share
