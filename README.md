@@ -8,9 +8,13 @@ As subscription-based companies scale, understanding where churn occurs, why it 
 
 The objective of this analysis is to uncover the main drivers of churn, evaluate differences across customer segments, and assess the impact on revenue using core SaaS metrics such as churn rate, Monthly Recurring Revenue (MRR), and Customer Lifetime Value (CLV).
 
-The analysis was conducted using Excel for data exploration and calculations, and Tableau for visualization and presentation. An interactive Tableau dashboard can be viewed here: [View Dashboard](https://public.tableau.com/views/RevenueandChurnAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+The analysis was conducted using Excel for data exploration and calculations, and Tableau for visualization and presentation. 
 
+https://public.tableau.com/views/RevenueandChurnAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+An interactive Tableau dashboard can be viewed here: [View Dashboard](https://public.tableau.com/views/RevenueandChurnAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+![Dashboard](dashboard.png)
 
 ---
 
